@@ -1,4 +1,4 @@
-![logo](https://www.brainvire.com/cdn-cgi/image/width=1920,quality=50,format=webp/wp/wp-content/uploads/2021/06/Cloud-banner.gif)
+![logo](https://piensoexisto.com/wp-content/uploads/2022/02/1_C-06JO_UVDCaE5zm_09J2w.gif)
 <h1 align="center">Hi 👋, I'm Bishnu Mukherjee</h1>
 <h3 align="center">A passionate Cloude cloud Engineer from India</h3>
 <img align="right" alt="Cloud" width="400" src="https://blog.imarticus.org/wp-content/uploads/2021/12/bwgg.gif">
